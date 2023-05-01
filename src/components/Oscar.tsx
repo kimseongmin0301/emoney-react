@@ -3,5 +3,5 @@ type OscarProps = {
 }
 
 export const Oscar = (props: OscarProps) => {
-    return <div>{props.children}</div>
+    return <div>{props.children}</div>;
 }
